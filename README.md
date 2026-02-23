@@ -17,6 +17,9 @@ git clone https://github.com/xpe-online/fcitx5-nord-pink.git
 mkdir -p ~/.local/share/fcitx5/themes/
 cd fcitx5-nord-pink
 cp -r Nord-Pink/ ~/.local/share/fcitx5/themes/
+
+# Or use AUR helpers
+paru -S fcitx5-nord-pink
 ```
 
 ### Enabling
